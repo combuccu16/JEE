@@ -1,0 +1,6 @@
+com\stock\model\Produit.class
+com\stock\service\ProduitServiceImpl.class
+com\stock\dao\ProduitDAO.class
+com\stock\controller\CatalogueServlet.class
+com\stock\dao\ProduitDAOMock.class
+com\stock\service\ProduitService.class
