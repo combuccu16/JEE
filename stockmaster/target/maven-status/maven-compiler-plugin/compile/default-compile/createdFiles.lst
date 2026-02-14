@@ -1,6 +1,9 @@
+com\stock\dao\ProduitDAO.class
+com\stock\dao\ProduitDAOMock.class
+com\stock\controller\LoginServlet.class
 com\stock\model\Produit.class
 com\stock\service\ProduitServiceImpl.class
-com\stock\dao\ProduitDAO.class
 com\stock\controller\CatalogueServlet.class
-com\stock\dao\ProduitDAOMock.class
+com\stock\filter\AuthentificationFilter.class
+com\stock\dao\ProduitDAOImpl.class
 com\stock\service\ProduitService.class

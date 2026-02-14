@@ -1,6 +1,7 @@
 package com.stock.service;
 
 import com.stock.dao.ProduitDAO;
+import com.stock.dao.ProduitDAOImpl;
 import com.stock.dao.ProduitDAOMock;
 import com.stock.model.Produit;
 import java.util.List;
@@ -11,7 +12,7 @@ public class ProduitServiceImpl implements ProduitService {
     private ProduitDAO produitDAO;
     
     public ProduitServiceImpl() {
-        this.produitDAO = new ProduitDAOMock(); // Utilise le Mock
+        this.produitDAO = new ProduitDAOImpl(); // Utilise le Mock
     }
 
     @Override

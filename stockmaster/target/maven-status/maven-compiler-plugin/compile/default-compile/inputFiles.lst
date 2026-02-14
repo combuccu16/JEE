@@ -1,6 +1,9 @@
-C:\Users\ASUS\Desktop\JEE\stockmaster\src\main\java\com\stock\controller\CatalogueServlet.java
-C:\Users\ASUS\Desktop\JEE\stockmaster\src\main\java\com\stock\model\Produit.java
-C:\Users\ASUS\Desktop\JEE\stockmaster\src\main\java\com\stock\dao\ProduitDAO.java
-C:\Users\ASUS\Desktop\JEE\stockmaster\src\main\java\com\stock\service\ProduitService.java
-C:\Users\ASUS\Desktop\JEE\stockmaster\src\main\java\com\stock\dao\ProduitDAOMock.java
-C:\Users\ASUS\Desktop\JEE\stockmaster\src\main\java\com\stock\service\ProduitServiceImpl.java
+C:\Users\DELL\JEE\stockmaster\src\main\java\com\stock\model\Produit.java
+C:\Users\DELL\JEE\stockmaster\src\main\java\com\stock\controller\LoginServlet.java
+C:\Users\DELL\JEE\stockmaster\src\main\java\com\stock\dao\ProduitDAO.java
+C:\Users\DELL\JEE\stockmaster\src\main\java\com\stock\filter\AuthentificationFilter.java
+C:\Users\DELL\JEE\stockmaster\src\main\java\com\stock\service\ProduitService.java
+C:\Users\DELL\JEE\stockmaster\src\main\java\com\stock\service\ProduitServiceImpl.java
+C:\Users\DELL\JEE\stockmaster\src\main\java\com\stock\dao\ProduitDAOImpl.java
+C:\Users\DELL\JEE\stockmaster\src\main\java\com\stock\dao\ProduitDAOMock.java
+C:\Users\DELL\JEE\stockmaster\src\main\java\com\stock\controller\CatalogueServlet.java
